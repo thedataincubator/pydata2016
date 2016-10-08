@@ -1,4 +1,4 @@
-name: strata
+name: pydata
 dependencies:
 - python=2.7.12
 - dill=0.2.5
